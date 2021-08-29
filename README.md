@@ -2,8 +2,7 @@
 
 1. Descompactar o arquivo <b>src.zip</b> que contém arquivos do Bootstrap.
 2. Linguagem PHP, HTML e CSS.
-
-Tela
+3. 
 <p align="center"><img src="index.png" title="Calculadora"></p>
 
 
